@@ -2,3 +2,4 @@
 Test hand tracking
 ## Library use:
 - OpenCV
+- MediaPipe
